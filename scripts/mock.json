@@ -1,0 +1,31 @@
+[{
+    "text": "Bratislava",
+    "time": "21:50",
+    "limit": "5"
+},
+{
+    "text": "Kosice",
+    "time": "18:20",
+    "limit": 10
+},
+{
+    "text": "Trnava",
+    "time": "21:00",
+    "limit": "12"
+},
+{
+    "text": "Trencin",
+    "time": "16:25",
+    "limit": 30
+},
+{
+    "text": "Martin",
+    "time": "16:25",
+    "limit": null
+},
+{
+    "text": "Kysuce",
+    "time": null,
+    "limit": 100
+}
+]
